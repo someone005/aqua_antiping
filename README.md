@@ -1,1 +1,1 @@
-Everything is described in script config
+Everything is described in config
