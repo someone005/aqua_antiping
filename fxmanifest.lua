@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 
-author 'Coolest#4321'
+author 'someone#0005'
 description 'Skrypt na zbyt wysoki ping'
 version '1.0.0'
 
